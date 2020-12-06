@@ -1,18 +1,18 @@
 { "users": [{
         "id": 1,
-        "first_name": "Paulinus",
-        "last_name": "Lambert",
-        "email": "paulinuslambert@gmail.com",
-        "username": "paulinus18",
-        "password": "lambert18"
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "johndoe@gmail.com",
+        "username": "john20",
+        "password": "doe20"
     },
     {
         "id": 2,
-        "first_name": "Natalia",
-        "last_name": "Nelpa",
-        "email": "natalianelpa@gmail.com",
-        "username": "natalia20",
-        "password": "nelpa20"
+        "first_name": "Julia",
+        "last_name": "Chan",
+        "email": "juliachan@gmail.com",
+        "username": "julia19",
+        "password": "chan19"
     }
     ]
 }
